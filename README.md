@@ -1,4 +1,4 @@
-# Please don't reply to this repo this is made for test only
+# Please don't DEPLOY to this repo this is made for test only
 
 
 ### Heroku Compatible Deploying for SuperBot
